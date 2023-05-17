@@ -134,3 +134,4 @@ public class BasicTxTest {
         txManager.commit(outer); //커밋 }
 
     }
+}
